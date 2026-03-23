@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegisterAndLogin</string>
+    <string name="registration_window">Registration Window</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
